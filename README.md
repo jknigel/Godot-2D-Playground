@@ -1,4 +1,4 @@
-# Dodge the Creeps 2D game
+# Dodge the Creeps 2D Game
 
 Used by the "Your first 2D game" tutorial:
 
